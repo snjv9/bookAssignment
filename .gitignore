@@ -1,0 +1,26 @@
+/backend/node_modules
+/backend/config.env
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+book-review-app/node_modules
+book-review-app/.pnp
+book-review-app/.pnp.js
+
+# testing
+/book-review-app/coverage
+
+# production
+/book-review-app/build
+
+# misc
+/book-review-app/.DS_Store
+/book-review-app/.env.local
+/book-review-app/.env.development.local
+/book-review-app/.env.test.local
+/book-review-app/.env.production.local
+
+/book-review-app/npm-debug.log*
+/book-review-app/yarn-debug.log*
+/book-review-app/yarn-error.log*
